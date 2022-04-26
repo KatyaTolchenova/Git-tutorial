@@ -1,0 +1,4 @@
+My To-Do List:
+1. Study Git and Github
+2. Study Java
+3. Prepare for coding test.
